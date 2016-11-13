@@ -1,7 +1,4 @@
-Задание выполнено на Python 2.7
+# External sort 
+My realiztion of [external sort](https://en.wikipedia.org/wiki/External_sorting).
 
-Использовался метод external sort ( https://en.wikipedia.org/wiki/External_sorting )
-Помощь при запуске: python sort.py -h
-Функция тестирования закомментирована на 147 строке
-Случай, когда файл меньше отводимой памяти не рассматривался.
-Обработки ошибок ввода вывода нет, могу дописать, если потребуется.
+Python 2.7
